@@ -18,6 +18,18 @@ Spry CLI - Command Line Tool
 
 ## WARNING: This is not an open realese yet and should be considered only for demo purposes. Enjoy!
 
+---
+
+### Installation
+_These instructions needs some work and the process needs to be cleaned up_
+NOTE: This currently only works for ZSH (Z Shell) which is the standard for Mac since Catalina and is awesome for Linux!
+
+
++ `git clone git@github.com:SethCottam/SpryCLI_early_access.git ~/spry_cli`
++ `sudo zsh ~/spry_cli/install.sh`
++ Then open a new terminal window and enjoy!
+
+---
 
 ### What is Spry CLI?
 
@@ -63,9 +75,9 @@ _These instructions needs some work and the process needs to be cleaned up_
 NOTE: This currently only works for ZSH (Z Shell) which is the standard for Mac since Catalina and is awesome for Linux!
 
 
-`git clone git@github.com:SethCottam/SpryCLI_early_access.git ~/spry_cli`
-`sudo zsh ~/spry_cli/install.sh`
-Then open a new terminal window
++ `git clone git@github.com:SethCottam/SpryCLI_early_access.git ~/spry_cli`
++ `sudo zsh ~/spry_cli/install.sh`
++ Then open a new terminal window and enjoy!
 
 ---
 
