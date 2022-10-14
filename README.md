@@ -37,7 +37,7 @@ This is a ZSH command line framework to allow simple scripts to automatically lo
 
 ### Why even bother? 
 
-As Software Engineers our basic value propisition to companies is "We implement and build tools to perform repetitive tasks so you don't have to do it manually. It's a combination of faster, easier, and/or accurate.". As Engineer's we're less committed to doing applying that not just to ourselves. So I wrote a talk on basic "personal use" scripting called "How to BASH your was to happiness". Here were the core suggestions.
+As Software Engineers our basic value propisition to companies is "We implement and build tools to perform repetitive tasks so you don't have to do it manually. It's a combination of faster, easier, and/or accurate.". As Engineers we're generally less committed to applying that to our personal work than our professional work. So I wrote a talk on basic "personal use" scripting called "How to BASH your way to happiness". Here were the core suggestions.
 
 How to bash your way to Happiness (My order of importance):
 + Functional is better than fast
@@ -63,8 +63,6 @@ This is the framework only version, but my personal version has:
 + 45 function familes (groups of functions towards the same general purpose, ex. statistics)
 + 23 independent shell scripts
 + 13,456 lines of code
-
-On my new Mac (When this screenshot wat taken) I've only used it 336 times (thousands on my last Mac). It only counts when I initiate a command, not nested commands, or commands run by the system automatically.
 
 My average useage is a couple hundred times per month.
 
